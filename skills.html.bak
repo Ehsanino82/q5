@@ -2,7 +2,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>مهارت و توانمندی ها</title>
-		<link rel="stylesheet" type="text/CSS" href="myStyle.CSS" />
+		<link rel="stylesheet" href="myStyle.CSS" />
 	</head>
   
   
@@ -10,7 +10,7 @@
 		<h1><span>خوش آمدید</span></h1>
 		<nav>
 			<ul>
-				<li class="nav-item"><a href="home.html">صفحه اصلی</a></li>
+				<li class="nav-item"><a href="index.html">صفحه اصلی</a></li>
 				<li class="nav-item"><a href="introduction.html">معرفی</a></li>
 				<li class="nav-item"><a href="skills.html">مهارت و توانمندی ها</a></li>
 				<li class="nav-item"><a href="achievement.html">افتخارات و دستاوردها</a></li>
